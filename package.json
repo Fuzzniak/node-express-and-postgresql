@@ -4,7 +4,6 @@
   "description": "zid-be-node-express-postgresql-xx-assignment qualified challenge.",
   "main": "jest.config.js",
   "directories": {
-    "src": "src",
     "test": "test"
   },
   "scripts": {
@@ -27,5 +26,13 @@
     "express": "^4.17.1",
     "knex": "^0.95.1",
     "pg": "^8.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fuzzniak/node-express-and-postgresql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fuzzniak/node-express-and-postgresql/issues"
+  },
+  "homepage": "https://github.com/Fuzzniak/node-express-and-postgresql#readme"
 }
